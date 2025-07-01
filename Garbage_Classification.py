@@ -4,9 +4,6 @@
 # In[25]:
 
 
-get_ipython().system('pip install gradio')
-
-
 # In[26]:
 
 
